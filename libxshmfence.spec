@@ -4,7 +4,7 @@
 #
 Name     : libxshmfence
 Version  : 1.3
-Release  : 11
+Release  : 12
 URL      : https://xorg.freedesktop.org/releases/individual/lib/libxshmfence-1.3.tar.bz2
 Source0  : https://xorg.freedesktop.org/releases/individual/lib/libxshmfence-1.3.tar.bz2
 Summary  : The X Shared Memory Fence Library
